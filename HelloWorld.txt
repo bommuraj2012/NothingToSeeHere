@@ -2,3 +2,11 @@ This would be a hello world if I could remember any of the code I learned ages a
 pretend this compiles.
 
 Hello!  
+
+Oh.. the messages actually have to be in commits..
+	
+   ("`-/")_.-'"``-._
+    . . `; -._    )-;-,_`)
+   (v_,)'  _  )`-.\  ``-'
+  _.- _..-_/ / ((.'
+((,.-'   ((,/
